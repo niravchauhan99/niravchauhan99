@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 👋, I'm Nirav Chauhan</h1>
-<h3 align="center">Final Year IT Student</h3>
+<h3 align="center">B.Tech IT 2025</h3>
 
 - 👯 I’m looking to collaborate on **LinkedIn | GitHub**
 
